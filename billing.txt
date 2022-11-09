@@ -1,0 +1,17 @@
+Shantanu,Vitamin c,10,142,Ramesh
+Shantanu,Vitamin c,14,41,Rajesh
+abc,Vitamin c,50,144,XYZ
+POI,Vitamin c,12,140,Rajesh
+Rahesjesh,vitamin c,140,14,Ramesh
+Steha,Vitamin c,10,12,Rajesh
+Esha,Vitamin c,140,12,Rewq
+'pk,Paracitomol,140,120,lkh
+h,Paracitomol,15,120,mnv
+shubagi,Vitamin c,12,201,Sakshi
+rahul,vitamin c,10,20,panu
+rakul,paracitomol,20,10,panuu
+pata,Vitamin c,20,120,pannu
+qwe,OMI,10,20,Pannu
+kushal,vitamin c,12,20,manish
+jofra,Vitamin c,92,120,manish
+rajesh ,Vitamin c,20,150,lasdio
